@@ -6,6 +6,6 @@ Bibliografia:
 
 [Age-related differences in characteristics, performance measures, treatment trends, and outcomes in patients with ischemic stroke](https://pubmed.ncbi.nlm.nih.gov/20142445/)
 
-Heart Disease and Stroke Statistics—2021 Update | Circulation (ahajournals.org)
+[Heart Disease and Stroke Statistics—2021 Update](https://www.ahajournals.org/doi/10.1161/CIR.0000000000000950)
 
-The Impact of Sex and Gender on Stroke - PMC (nih.gov)
+[The Impact of Sex and Gender on Stroke] (https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8890686/)
