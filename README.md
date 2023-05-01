@@ -4,7 +4,7 @@ A metodologia utilizada para construir o classificador de AVCs foi a DecisionTre
 
 Bibliografia:
 
-<a href=“https://pubmed.ncbi.nlm.nih.gov/20142445/“>Age-related differences in characteristics, performance measures, treatment trends, and outcomes in patients with ischemic stroke</a>
+[Age-related differences in characteristics, performance measures, treatment trends, and outcomes in patients with ischemic stroke](https://pubmed.ncbi.nlm.nih.gov/20142445/)
 
 Heart Disease and Stroke Statistics—2021 Update | Circulation (ahajournals.org)
 
