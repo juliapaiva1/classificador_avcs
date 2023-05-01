@@ -8,4 +8,4 @@ Bibliografia:
 
 [Heart Disease and Stroke Statistics—2021 Update](https://www.ahajournals.org/doi/10.1161/CIR.0000000000000950)
 
-[The Impact of Sex and Gender on Stroke] (https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8890686/)
+[The Impact of Sex and Gender on Stroke](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8890686/)
